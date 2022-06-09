@@ -1,0 +1,11 @@
+package my.git;
+
+/**
+ * @author Jiawen He
+ * @create 2022-06-10 0:14
+ */
+public class GitTest {
+    public static void main(String[] args) {
+        System.out.println("hello git!");
+    }
+}
